@@ -1029,6 +1029,7 @@ Rule:
 - DOMAIN-SUFFIX,redbubble.com,PROXY
 - DOMAIN-SUFFIX,reddit.com,PROXY
 - DOMAIN-SUFFIX,redditmedia.com,PROXY
+- DOMAIN-SUFFIX,redditstatic.com,PROXY
 - DOMAIN-SUFFIX,resilio.com,PROXY
 - DOMAIN-SUFFIX,reuters.com,PROXY
 - DOMAIN-SUFFIX,reutersmedia.net,PROXY
