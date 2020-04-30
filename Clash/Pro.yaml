@@ -1221,6 +1221,7 @@ Rule:
 - DOMAIN-SUFFIX,recaptcha.net,PROXY
 - DOMAIN-SUFFIX,shattered.io,PROXY
 - DOMAIN-SUFFIX,synergyse.com,PROXY
+- DOMAIN-SUFFIX,telephony.goog,PROXY
 - DOMAIN-SUFFIX,tensorflow.org,PROXY
 - DOMAIN-SUFFIX,tfhub.dev,PROXY
 - DOMAIN-SUFFIX,tiltbrush.com,PROXY
