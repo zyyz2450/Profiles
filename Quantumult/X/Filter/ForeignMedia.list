@@ -21,13 +21,13 @@ DOMAIN-SUFFIX,p-cdn.us,ForeignMedia
 DOMAIN-SUFFIX,sndcdn.com,ForeignMedia
 DOMAIN-SUFFIX,soundcloud.com,ForeignMedia
 # > Spotify
-USER-AGENT,Spotify*,ForeignMedia
-DOMAIN-SUFFIX,pscdn.co,ForeignMedia
-DOMAIN-SUFFIX,scdn.co,ForeignMedia
-DOMAIN-SUFFIX,spotify.com,ForeignMedia
-DOMAIN-SUFFIX,spoti.fi,ForeignMedia
-DOMAIN-KEYWORD,spotify.com,ForeignMedia
-DOMAIN-KEYWORD,-spotify-com,ForeignMedia
+USER-AGENT,Spotify*,Spotify
+DOMAIN-SUFFIX,pscdn.co,Spotify
+DOMAIN-SUFFIX,scdn.co,Spotify
+DOMAIN-SUFFIX,spotify.com,Spotify
+DOMAIN-SUFFIX,spoti.fi,Spotify
+DOMAIN-KEYWORD,spotify.com,Spotify
+DOMAIN-KEYWORD,-spotify-com,Spotify
 # > TIDAL
 USER-AGENT,TIDAL*,ForeignMedia
 DOMAIN-SUFFIX,tidal.com,ForeignMedia
