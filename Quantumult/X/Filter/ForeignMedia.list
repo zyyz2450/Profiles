@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,v1-vod2.uhdnow.com,UHD
 DOMAIN-SUFFIX,www.uhdnow.com,DIRECT
 DOMAIN-SUFFIX,speed.uhdnow.com,DIRECT
 DOMAIN-SUFFIX,smart.uhdnow.com,DIRECT
-host-keyword,*.uhdnow.online,DIRECT
+DOMAIN-SUFFIX,uhdnow.online,DIRECT
 DOMAIN-SUFFIX,mlc.once.im,DIRECT
 # > Deezer
 USER-AGENT,Deezer*,ForeignMedia
